@@ -236,6 +236,7 @@ nav .fa{
     width: 80%;
     margin: auto;
     padding: 60px 0;
+    height: 80%;
 }
 .blog-left{
     flex-basis: 65%;
