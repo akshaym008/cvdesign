@@ -349,3 +349,9 @@ nav .fa{
     border: 1px solid #ccc;
     box-sizing: border-box;
 }
+.sub-header h1{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0;
+    color: white;
+}
